@@ -49,7 +49,7 @@ Welcome to **Discord Bot Studio**, a powerful and intuitive GUI application buil
 ### Setup Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/discord-bot-studio.git
+   git clone https://github.com/KirobotDev/discord-bot-manager
    cd discord-bot-studio
    ```
 
