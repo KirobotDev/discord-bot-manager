@@ -1,0 +1,5 @@
+discord.py==2.4.0
+python-dotenv==1.0.1
+cryptography==43.0.1
+customtkinter==5.2.2
+Pygments==2.18.0
