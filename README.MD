@@ -146,7 +146,7 @@ Welcome to **Discord Bot Studio**, a powerful and intuitive GUI application buil
 
 | **Cogs Explorer & Code Editor** | **Bot Running with Console Logs** |
 |--------------------------------|------------------------------------|
-| ![Cogs Explorer](screenshots/explorer.png) | ![Bot Running](screenshots/bot_running.png) |
+| ![Cogs Explorer](https://i.postimg.cc/NFM2mhQN/Capture-d-cran-du-2025-10-21-14-04-39.png) | ![Bot Running](https://i.postimg.cc/bJR11Hky/Capture-d-cran-du-2025-10-21-14-04-02.png) |
 
 *Note: Screenshots are placeholders. Add actual screenshots to the `screenshots/` directory and update paths.*
 
